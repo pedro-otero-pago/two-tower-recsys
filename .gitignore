@@ -225,3 +225,6 @@ __marimo__/
 data/
 *.parquet
 .venv/
+
+# explore.py
+src/explore.py
